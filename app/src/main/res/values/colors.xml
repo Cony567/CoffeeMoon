@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--Personal Colors DayTheme-->
+    <!--https://material.io/resources/color/#!/?view.left=0&view.right=0&secondary.color=37474F&primary.color=CFD8DC&secondary.text.color=CFD8DC&primary.text.color=37474F-->
+    <color name="primaryColor">#cfd8dc</color>
+    <color name="primaryLightColor">#ffffff</color>
+    <color name="primaryDarkColor">#9ea7aa</color>
+    <color name="secondaryColor">#37474f</color>
+    <color name="secondaryLightColor">#62727b</color>
+    <color name="secondaryDarkColor">#102027</color>
+    <color name="primaryTextColor">#37474f</color>
+    <color name="secondaryTextColor">#cfd8dc</color>
+
+    <!--Personal Colors DarkTheme-->
+    <color name="primaryColorDT">#263238</color>
+    <color name="primaryLightColorDT">#4f5b62</color>
+    <color name="primaryDarkColorDT">#000a12</color>
+    <color name="secondaryColorDT">#37474f</color>
+    <color name="secondaryLightColorDT">#62727b</color>
+    <color name="secondaryDarkColorDT">#102027</color>
+    <color name="primaryTextColorDT">#cfd8dc</color>
+    <color name="secondaryTextColorDT">#eceff1</color>
+</resources>

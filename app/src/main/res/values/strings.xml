@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoffeMoon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_menu">Menú</string>
+    <string name="title_others">Otros</string>
+    <string name="title_add">Agregar</string>
+    <string name="title_shopping_cart">Carrito</string>
+</resources>
