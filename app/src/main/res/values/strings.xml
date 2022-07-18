@@ -7,4 +7,23 @@
     <string name="title_others">Otros</string>
     <string name="title_add">Agregar</string>
     <string name="title_shopping_cart">Carrito</string>
+
+    <!--Fragment Add-->
+    <string name="title_fragment_add">Ingrese nuevo producto</string>
+    <string name="hint_input_name_product">Nombre de Producto</string>
+    <string name="hint_dropdown_category">Categoría de producto</string>
+    <string name="hint_input_description">Descripción del Producto</string>
+    <string name="hint_input_recipe">Receta del Producto</string>
+    <string name="hint_input_price">Precio del producto</string>
+    <string name="hint_switch_stock">¿Existe Stock?</string>
+    <string name="text_button_add_product">Ingresar Producto</string>
+    
+    <string-array name="array_list">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+        <item>Opción 5</item>
+        <item>Opción 6</item>
+    </string-array>
 </resources>
